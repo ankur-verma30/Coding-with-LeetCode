@@ -16,7 +16,7 @@ class Solution
           
           if(x[i]=='{' || x[i]=='[' || x[i]=='(')
           st.push(x[i]);
-          else {
+          else {        
           if(st.empty())
           return false;
           
