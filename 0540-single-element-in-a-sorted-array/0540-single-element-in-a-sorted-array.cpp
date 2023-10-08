@@ -2,6 +2,7 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
         int len=nums.size();
+             int low=1,high=len-2;
         
         if(len==1)//edge cases 1
             return nums[0];
@@ -12,7 +13,7 @@ public:
         if(nums[len-1]!=nums[len-2]) //edge case 3
             return nums[len-1];
         
-        int low=1,high=len-2;
+   
         
         while(low<=high){
             int mid=low+(high-low)/2;
