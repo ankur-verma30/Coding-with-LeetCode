@@ -4,12 +4,8 @@ public:
            int len=arr.size(); //size of the array
         int low=1,high=len-2;
         
-        
         if(arr[len-1]>arr[len-2])//if peak is last element
             return len-1;
-        
-       
-        
         
         while(low<=high){
             int mid=low+(high-low)/2;
