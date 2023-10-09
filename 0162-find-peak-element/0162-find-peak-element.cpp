@@ -2,6 +2,7 @@ class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
         int len=nums.size(); //size of the array
+        int low=1,high=len-2;
         
        if(len==1) //for one element
            return 0;
@@ -12,7 +13,7 @@ public:
         if(nums[0]>nums[1])  //if peak is first element
             return 0;
         
-        int low=1,high=len-2;
+        
         while(low<=high){
             int mid=low+(high-low)/2;
             if(nums[mid]>nums[mid+1] &&nums[mid]>nums[mid-1])
