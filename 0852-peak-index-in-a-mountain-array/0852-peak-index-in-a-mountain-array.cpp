@@ -4,8 +4,7 @@ public:
            int len=arr.size(); //size of the array
         int low=1,high=len-2;
         
-       if(len==1) //for one element
-           return 0;
+       
         
         if(arr[len-1]>arr[len-2])//if peak is last element
             return len-1;
