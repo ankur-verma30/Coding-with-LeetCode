@@ -1,28 +1,21 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        set<int> Set;
-        vector<int> result;
+       sort(nums.begin(),nums.end(),std::greater<int>());
+       int n=nums.size();
 
-        for(int i=0;i<nums.size();i++)
-            Set.insert(nums[i]);
-        
-        for(auto x : Set)
-            result.push_back(x);
+       if(n<3)
+       return nums[0];
 
-        int len=result.size();
-        
-        if(len==1)
-            return result[0];
-  
-        if(len==2){
-            sort(result.begin(),result.end());
-            return result[1];
-        }
+       int distinctCount=1;
+       for(int i=1;i<n;i++){
+           if(nums[i]!=nums[i-1])
+           distinctCount++;
 
-        if(len>=3)
-            return result[len-3];
-        
-        return result[len];
+           if(distinctCount==3)
+           return nums[i];
+       }
+       return nums[0];
     }
+    
 };
