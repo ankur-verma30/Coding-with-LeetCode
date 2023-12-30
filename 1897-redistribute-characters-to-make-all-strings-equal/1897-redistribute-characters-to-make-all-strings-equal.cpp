@@ -1,28 +1,23 @@
-class Solution(object):
-    def makeEqual(self, words):
-        """
-        :type words: List[str]
-        :rtype: bool
-        """
-        total_characters = 0
-        character_count = {}
+class Solution {
+public:
+    bool makeEqual(vector<string>& words) {
+        int TotalCharacters=0;
+        unordered_map<char,int>mp;
 
-        for word in words:
-            for char in word:
-                total_characters += 1
-                character_count[char] = character_count.get(char, 0) + 1
-        
+        for(auto str:words){
+            for(auto ch:str){
+                TotalCharacters++;
+                mp[ch]++;
+            }
+        }
 
-        if total_characters % len(words) != 0:
-            return False
+        if(TotalCharacters%(int)words.size()!=0) return false; 
 
+        for(auto x:mp){
+            if(x.second%(int)words.size()!=0)
+            return false;
+        }
 
-        for count in character_count.values():
-            if count % len(words) != 0:
-                return False    
-
-
-        return True    
-       
-    
-        
+        return true;
+    }
+};
