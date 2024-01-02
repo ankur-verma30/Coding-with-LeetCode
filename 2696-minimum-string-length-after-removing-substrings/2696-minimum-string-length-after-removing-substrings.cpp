@@ -1,10 +1,11 @@
 class Solution {
 public:
     int minLength(string s) {
+        int n=s.size();
         stack<char> stk;
         stk.push('*');
         
-        for(int i=0; i<s.length(); i++){
+        for(int i=0; i<n; i++){
             stk.push(s[i]);
 
             if(stk.top()=='B'){
