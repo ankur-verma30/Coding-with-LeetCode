@@ -12,7 +12,6 @@ public:
             mp[x]++;
 
         vector<int> freq;
-        int count = 0;
         for (auto x : mp)
             freq.push_back(x.second);
 
