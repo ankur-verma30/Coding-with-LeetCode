@@ -1,31 +1,38 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-       vector<int> result;
+         // Sort both vectors
+        std::sort(nums1.begin(), nums1.end());
+        std::sort(nums2.begin(), nums2.end());
 
-    set<int> set1;
-    for(auto x:nums1)
-    set1.insert(x);
-    set<int> set2;
-     for(auto x:nums2)
-    set2.insert(x);
+        // Initialize two pointers
+        int p1 = 0;
+        int p2 = 0;
+        
+        // Create set that stores integers appearing in both vectors
+        std::unordered_set<int> intersection;
 
-    
-    auto itr1 = set1.begin();
-    auto itr2 = set2.begin();
-
-    while (itr1 != set1.end() && itr2 != set2.end()) {
-        if (*itr1 == *itr2) {
-            result.push_back(*itr1);
-            itr1++;
-            itr2++;
+        // Iterate the pointers from left to right
+        while (p1 < nums1.size() && p2 < nums2.size()) {
+            // Add a value to the set if values at both pointers equal
+            if (nums1[p1] == nums2[p2]) {
+                intersection.insert(nums1[p1]);
+                p1++;
+                p2++;
+            }
+            // Otherwise, increment the pointer of the smaller integer
+            else if (nums1[p1] < nums2[p2]) {
+                p1++;
+            }
+            else {
+                p2++;
+            }
         }
-         else if (*itr1 < *itr2) 
-            itr1++;
-             else 
-            itr2++;
-    }
 
-    return result;
-}
+        // Convert intersection to a vector
+        std::vector<int> result(intersection.begin(), intersection.end());
+
+        //Return the result
+        return result; 
+    }
 };
