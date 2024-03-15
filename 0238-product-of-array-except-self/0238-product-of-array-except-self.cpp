@@ -1,24 +1,33 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int n = nums.size();
-        
-        // `pre[i]` is the product of `nums[0] * nums[1] * ... * nums[i - 1]`
-        vector<int> pre(n, 1);
-        for (int i = 1; i < n; i++) 
-        pre[i] = pre[i - 1] * nums[i - 1];
+        int n=nums.size();
+        vector<int>ans(n,0);
+        int zeroes=0;
+        int product=1;
 
-        // `post[i]` is the product of `nums[i + 1] * nums[i + 2] * ... * nums[n - 1]`
-        vector<int> post(n, 1);
-        for (int i = n - 2; i >= 0; i--) 
-        post[i] = post[i + 1] * nums[i + 1];
-        
-        // `pre[i] * post[i]` is the product of all the elements of `nums` except `nums[i]`
-        vector<int> result(n);
-        for (int i = 0; i < n; i++) 
-        result[i] = pre[i] * post[i];
+      for(int i=0;i<n;i++){
+        if(nums[i]==0) {
+            zeroes++;
+            continue;
+        }
+        product*=nums[i];
+      }
 
+      if(zeroes==0){
+        for(int i=0;i<n;i++) ans[i]=product/nums[i];
+      }
 
-        return result;
+      if(zeroes==1){
+        for(int i=0;i<n;i++){
+            ans[i] = nums[i] == 0 ? product : 0;
+        }
+      }
+
+      if(zeroes>=2){
+        for(int i=0;i<n;i++) ans[i]=0;
+      }
+
+        return ans;
     }
 };
