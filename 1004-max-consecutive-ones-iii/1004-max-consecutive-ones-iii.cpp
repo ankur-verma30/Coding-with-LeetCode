@@ -9,15 +9,15 @@ public:
         while(right<size){
              if(nums[right]==0) zeroes++;
              
-            while(zeroes>k){
+            if(zeroes>k){  //replace while with if 
                 if(nums[left]==0)  zeroes--;
                      left++;   
             }
                if(zeroes<=k){
                 length=right-left+1;
-                maxLength=max(maxLength,length);
+                maxLength=max(maxLength,length); 
             }
-            right++;    
+              right++;  
         }
         return maxLength;
     }
