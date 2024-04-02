@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char, char> m,n;
+       unordered_map<char, char> m,n;
 
         if(s.length()!=t.length())
         return false;
