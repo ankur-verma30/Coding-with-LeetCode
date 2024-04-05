@@ -1,28 +1,19 @@
 class Solution {
 public:
     string makeGood(string s) {
-        stack<char>stk;
-        string res="";
-        char ch;
-        int len=s.length();
-        for(int i=0;i<len;i++){
-            if(stk.empty()){
-                stk.push(s[i]);
-            }
-            else{
-                 ch=stk.top();
-                if (s[i]+32==ch || s[i]-32==ch )
-                    stk.pop();
-                else
-                    stk.push(s[i]);
-            }
-        }
-        while(!stk.empty()){
-             ch=stk.top();
-        res+=ch;
-        stk.pop();
-        }
-        reverse(res.begin(),res.end());
-        return res;
+        string ans = "";
+		ans.push_back(s[0]);
+
+		for(int i = 1 ; i < s.length() ; i++)
+		{
+			if(ans.length() == 0)
+				ans.push_back(s[i]);
+			else if(abs(ans[ans.length()-1] - s[i]) == 32)
+				ans.pop_back();
+			else if(ans[ans.length()-1] - 32 != s[i])
+				ans.push_back(s[i]);
+		}
+		return ans;
+    
     }
 };
