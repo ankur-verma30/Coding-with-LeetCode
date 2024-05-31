@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xor1 = 0;
+            int xor1 = 0;
     // Xor of all the numbers in the vector
     for (int i = 0; i < nums.size(); i++)
         xor1 ^= nums[i];
@@ -28,5 +28,6 @@ public:
     }
 
     return {setA, setB};
+    
     }
 };
