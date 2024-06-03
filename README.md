@@ -22,3 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
+# String
+|  |
+| ------- |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
