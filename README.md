@@ -28,7 +28,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0090-subsets-ii) |
+# Two Pointers
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
