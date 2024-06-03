@@ -23,23 +23,17 @@ ll modExp(ll base, ll exp, ll m) {
 }
 
 int numberOfConsecutiveOnes(int n) {
-    if (n == 0) return 0; // No strings with consecutive 1's if length is 0
-    if (n == 1) return 0; // No strings with consecutive 1's if length is 1
-
-    ll total = modExp(2, n, mod); // Calculate 2^n % mod using modular exponentiation
-
-    ll dp[n + 1];
-    dp[0] = 1; // Empty string
-    dp[1] = 2; // "0", "1"
-
-    for (int i = 2; i <= n; ++i) {
-        dp[i] = (dp[i-1] + dp[i-2]) % mod;
-    }
-
-    ll noConsecutiveOnes = dp[n];
-    ll result = (total - noConsecutiveOnes + mod) % mod; // Ensure non-negative result
-
-    return result;
+     if(n < 2) return 0;
+        int f0=0,f1=1,f2;
+        int ans = 1,mod = 1e9+7;
+        for(int i=2;i<n;i++){
+            f2 = (f0+f1)%mod;
+            f0 = f1;
+            f1 = f2;
+            ans = ((ans*2)%mod + f2)%mod;
+        }
+        return ans;
+    
 }
 };
 
