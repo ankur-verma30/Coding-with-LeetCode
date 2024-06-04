@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 # String
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
@@ -40,4 +41,9 @@ Collection of LeetCode questions to ace the coding interview!
 # Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
