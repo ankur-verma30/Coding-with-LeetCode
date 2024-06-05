@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0090-subsets-ii) |
+| [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
 # Backtracking
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
@@ -47,3 +49,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
