@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 # String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -50,3 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0014-longest-common-prefix) |
