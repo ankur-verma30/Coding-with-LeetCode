@@ -1,15 +1,34 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
+        int len = nums.size();
+        if (len == 0)
+            return;
 
-        //can be sorted using better techniques
-        for(int i=0;i<nums.size()-1;i++){
-            for(int j=0;j<nums.size()-1-i;j++){
-                if(nums[j]>nums[j+1]){
-                    int tem=nums[j];
-                    nums[j]=nums[j+1];
-                    nums[j+1]=tem;
-                }
+        int low = 0, high = len - 1;
+        int temp;
+
+        while (low != high) {
+            while ((nums[low] == 0) && (low < high))
+                low++;
+            while ((nums[high] != 0) && (low < high))
+                high--;
+            if (low != high) {
+                temp = nums[low];
+                nums[low] = nums[high];
+                nums[high] = temp;
+            }
+        }
+        high = len - 1;
+        while (low != high) {
+            while ((nums[low] == 1) && (low < high))
+                low++;
+            while ((nums[high] != 1) && (low < high))
+                high--;
+            if (low != high) {
+                temp = nums[low];
+                nums[low] = nums[high];
+                nums[high] = temp;
             }
         }
     }
