@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
