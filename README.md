@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Backtracking
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Memoization
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Greedy
 |  |
 | ------- |
@@ -60,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1217-relative-sort-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Trie
 |  |
 | ------- |
@@ -72,9 +76,15 @@ Collection of LeetCode questions to ace the coding interview!
 | [1137-height-checker](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Counting Sort
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1217-relative-sort-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+# Binary Search
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
