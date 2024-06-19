@@ -1,25 +1,27 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        int low=0;
-       long long int high=pow(c,0.5);
-
-        if(c==1) return true;
-
-        while(low<=high){
-            if(high==pow(c,0.5))
-            return true;
-            if(high>pow(c,0.5))
-            high--;
-            else{
-                if((high*high+low*low)==c)
-                return true;
-                else if((high*high+low*low)<c)
-                low++;
-                else 
-                high--;
-            }
+        vector<long long> squares;
+        squares.push_back(0);
+        
+        // Use long long for i to prevent overflow
+        for (long long i = 1; i * i <= c; i++) {
+            squares.push_back(i * i);
         }
+
+        // Check if c itself is a perfect square
+        if(binary_search(squares.begin(), squares.end(), (long long)c)) return true;
+
+        // Use long long for i in the loop
+        for (long long i = 1; i * i <= c; i++) {
+            long long rem = (long long)c - (i * i);
+            if (rem < 0)
+                return false;
+            if (binary_search(squares.begin(), squares.end(), rem))
+                return true;
+        }
+
         return false;
+    
     }
 };
