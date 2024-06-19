@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Greedy
@@ -87,4 +89,5 @@ Collection of LeetCode questions to ace the coding interview!
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
