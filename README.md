@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1217-relative-sort-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Backtracking
@@ -91,3 +92,23 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Sliding Window
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
