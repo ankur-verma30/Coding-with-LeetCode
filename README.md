@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1137-height-checker) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Memoization
 |  |
