@@ -136,3 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1916-find-center-of-star-graph) |
