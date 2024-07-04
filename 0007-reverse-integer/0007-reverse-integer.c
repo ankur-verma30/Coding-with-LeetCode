@@ -1,4 +1,5 @@
 int reverse(int y){
+
     long new_num=0;
         int rem=0;
         while(y!=0){  
@@ -8,6 +9,5 @@ int reverse(int y){
             y/=10;
         }
 
-       
         return new_num; 
 }
