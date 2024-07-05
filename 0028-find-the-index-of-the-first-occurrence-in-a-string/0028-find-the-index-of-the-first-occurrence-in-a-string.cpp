@@ -1,7 +1,7 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-       int n=haystack.size(),m=needle.size();
+          int n=haystack.size(),m=needle.size();
        
         if(haystack==needle)
         return 0;
@@ -17,6 +17,6 @@ public:
 
         }
         return -1;
-        }
-    
+        
+    }
 };
