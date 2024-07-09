@@ -1,6 +1,7 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& cust) {
+        ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
         int num=cust.size();
         double currTime=cust[0][0];
         double diff=0;
