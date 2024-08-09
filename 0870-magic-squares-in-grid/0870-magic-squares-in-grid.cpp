@@ -45,7 +45,7 @@ public:
         if (Colst.size() > 1)
             return false;
 
-        if (*Rowst.begin() != dig1)
+        if (*Rowst.begin() != *Colst.begin())
             return false;
 
         return true;
