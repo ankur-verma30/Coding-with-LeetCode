@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0007-reverse-integer) |
+| [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2645-pass-the-pillow) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -270,5 +273,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
