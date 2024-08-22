@@ -312,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
