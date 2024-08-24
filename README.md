@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
