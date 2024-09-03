@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2406-decode-the-message](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2406-decode-the-message) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
