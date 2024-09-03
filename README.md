@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
