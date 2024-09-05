@@ -8,6 +8,7 @@ public:
         total=(m+n)*mean;
 
         int rem=total-sum;
+        if(rem<n) return {};
 
         vector<int>arr(n,0);
         int i=0;
@@ -17,8 +18,6 @@ public:
             if(arr[i%n]>6) return {};
             i++;
         }
-
-        for(int i=0;i<arr.size();i++) if(arr[i]==0) return {};
 
         return arr;
     }
