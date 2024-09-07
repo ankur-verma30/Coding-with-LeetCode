@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0016-3sum-closest) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -368,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -385,4 +390,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
