@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
