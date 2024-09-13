@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1293-three-consecutive-odds](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Brainteaser
 |  |
