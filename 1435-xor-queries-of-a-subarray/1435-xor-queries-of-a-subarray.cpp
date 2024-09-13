@@ -14,7 +14,6 @@ public:
         int first=queries[i][0];
         int second=queries[i][1];
         if(first==0) ans.push_back(prefix[second]);
-        else if(first==second) ans.push_back(arr[first]);
         else{
             first=first-1;
             int num1=prefix[first];
