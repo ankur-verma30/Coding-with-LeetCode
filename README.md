@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
 |  |
 | ------- |
