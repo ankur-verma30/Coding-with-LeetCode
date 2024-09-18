@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Matrix
 |  |
@@ -453,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Brainteaser
