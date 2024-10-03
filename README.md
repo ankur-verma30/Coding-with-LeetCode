@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1803-average-waiting-time) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Brainteaser
 |  |
