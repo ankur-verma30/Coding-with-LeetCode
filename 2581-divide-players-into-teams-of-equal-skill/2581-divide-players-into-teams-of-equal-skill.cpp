@@ -26,10 +26,8 @@ public:
         if (res.size() != n)
             return -1;
         long long pro = 0;
-        for (auto& x : res) {
-            pro += (x.first * x.second);
-        }
-
+        for (auto& x : res)  pro += (x.first * x.second);
+        
         return pro;
     }
 };
