@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1254-deepest-leaves-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
 |  |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
