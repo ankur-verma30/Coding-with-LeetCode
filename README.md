@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
