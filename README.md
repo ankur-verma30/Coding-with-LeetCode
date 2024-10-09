@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0290-word-pattern) |
