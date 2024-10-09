@@ -1,12 +1,7 @@
 class Solution {
 public:
     string stringHash(string s, int k) {
-        unordered_map<char, int> mpp;
-        char ch = 'a';
-
-        for (int i = 0; i < 26; i++)
-            mpp[i] = ch++;
-
+    
         string res;
         int i = 0;
         for (; i < s.length();) {
@@ -18,7 +13,7 @@ public:
                 i++;
             }
             sum = sum % 26;
-            char ch = mpp[sum];
+            char ch = sum+'a';
             res += ch;
             
         }
