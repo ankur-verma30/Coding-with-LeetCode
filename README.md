@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0071-simplify-path](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
