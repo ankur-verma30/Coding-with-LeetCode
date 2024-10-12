@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2481-strictly-palindromic-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -379,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -551,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Brainteaser
 |  |
 | ------- |
