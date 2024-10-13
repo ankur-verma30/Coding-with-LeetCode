@@ -39,7 +39,7 @@ public:
                 vector<int>ans(nums.begin()+i,nums.begin()+i+k);
                 temp=ans;
             }
-              int sum=  solve(temp,x);
+              int sum=solve(temp,x);
               res.push_back(sum);
             }
 
