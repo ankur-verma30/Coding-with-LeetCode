@@ -9,9 +9,16 @@ public:
             return 0;
 
         int count = 0;
-        for (int i = 0; i < 31; i++) {
-            if (((xorVal >> i) & 1) != ((k >> i) & 1))
-                count++;
+        //can be done in this way also
+        // for (int i = 0; i < 31; i++) {
+        //     if (((xorVal >> i) & 1) != ((k >> i) & 1))
+        //         count++;
+        // }
+
+        xorVal^=k;
+        while(xorVal){
+            count+=xorVal&1;
+            xorVal>>=1; 
         }
 
         return count;
