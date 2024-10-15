@@ -9,9 +9,9 @@ public:
         if (whiteBall == n || blackBall == n)
             return 0;
 
-        int sum = 0;
+        int sum = 0,i=0;
         vector<int> res;
-        int i = 0;
+      
         while (whiteBall && i < n) {
             if (s[i] == '1')
                 sum++;
