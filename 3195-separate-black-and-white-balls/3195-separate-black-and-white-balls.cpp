@@ -10,22 +10,17 @@ public:
             return 0;
 
         int sum = 0,i=0;
-        vector<int> res;
+        long long ans=0;
       
         while (whiteBall && i < n) {
             if (s[i] == '1')
                 sum++;
             if (s[i] == '0') {
                 whiteBall--;
-                res.push_back(sum);
+                ans+=sum;
             }
             i++;
         }
-
-        long long ans = 0;
-        for (auto x : res)
-            ans += x;
-
         return ans;
     }
 };
