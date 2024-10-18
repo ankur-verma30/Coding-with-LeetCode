@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0257-binary-tree-paths) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0476-number-complement](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -585,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
