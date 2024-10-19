@@ -14,7 +14,7 @@ public:
         string newStr = str;
         newStr += '1';
         string temp = InvertString(str);
-         reverse(temp.begin(), temp.end());
+        reverse(temp.begin(), temp.end());
         newStr += temp;
 
         return newStr;
