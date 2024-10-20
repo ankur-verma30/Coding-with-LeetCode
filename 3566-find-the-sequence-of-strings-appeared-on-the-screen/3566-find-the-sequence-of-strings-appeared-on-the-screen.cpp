@@ -5,24 +5,11 @@ public:
         string res;
         int n = target.length();
 
-        for (int i = 0; i < n; i++) {
-            char ch = target[i];
-            char temp = 'a';
-            while (temp <= ch) {
-                if (res.empty()){
-                    string curr;
-                    curr+=temp;
-                    ans.push_back(curr);
-                }
-                else {
-                    string curr = res;
-                    curr += temp;
-                    ans.push_back(curr);
-                }
-                temp++;
+        for (char ch : target) {
+            for (char temp = 'a'; temp <= ch; temp++) {
+                ans.push_back(res + temp);
             }
-            temp--;
-            res += temp;
+            res += ch;
         }
 
         return ans;
