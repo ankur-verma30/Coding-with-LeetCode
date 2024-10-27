@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 ## String Matching
 |  |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
