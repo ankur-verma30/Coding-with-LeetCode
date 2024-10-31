@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
