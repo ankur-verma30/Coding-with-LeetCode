@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3451-string-compression-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3451-string-compression-iii) |
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 ## String Matching
 |  |
