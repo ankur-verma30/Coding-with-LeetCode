@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
