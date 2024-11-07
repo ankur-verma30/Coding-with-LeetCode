@@ -3,7 +3,7 @@ public:
     int largestCombination(vector<int>& candi) {
          int maxLen = 0;
 
-        for (int bit = 0; bit < 32; ++bit) {
+        for (int bit = 0; bit < 25; ++bit) {
             int count = 0;
             for (int num : candi) {
                 if (num & (1 << bit)) {
