@@ -7,7 +7,7 @@ public:
         if (grid[0][0] == 1 || grid[n - 1][m - 1] == 1)
             return -1;
 
-        if(n==1 && m==1 && grid[n-1][m-1]==0)  return 1;
+       
 
         vector<vector<int>> distance(n, vector<int>(m, INT_MAX));
 
@@ -28,6 +28,8 @@ public:
             int row = temp.second.first;
             int col = temp.second.second;
             pq.pop();
+
+            if(row==n-1 && col==m-1) return dist;
 
             for (const auto& d : del) {
                 int delRow = row + d.first;
