@@ -9,14 +9,16 @@ public:
             xorVal^=nums[i];
             preXor[i]=xorVal;
         }
+        
 
-        vector<int>ans;
+        reverse(preXor.begin(),preXor.end());
+
         int maxK=(1<<maximumBit)-1;
-        for(int i=n-1;i>=0;i--){
+        for(int i=0;i<n;i++){
             int k=maxK^preXor[i];
-            ans.push_back(k);
+           preXor[i]=k;
         }
 
-        return ans;
+        return preXor;
     }
 };
