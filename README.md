@@ -619,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3394-minimum-array-end) |
 ## Depth-First Search
 |  |
 | ------- |
