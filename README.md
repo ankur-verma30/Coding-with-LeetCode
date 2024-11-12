@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0606-construct-string-from-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -746,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -765,5 +769,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
