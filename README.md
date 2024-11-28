@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Tree
@@ -727,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1254-deepest-leaves-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -756,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Trie
@@ -775,4 +780,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
