@@ -676,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2201-valid-arrangement-of-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2201-valid-arrangement-of-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3189-find-champion-ii) |
@@ -787,4 +789,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
