@@ -12,11 +12,7 @@ public:
 
         bool allOne=true;
         int len=bits.length();
-
-        for(int i=0;i<len;i++){
-            if(bits[i]=='0') bits[i]=1;      
-        }
-
+        
         return (1<<len)-1;
 
     }
