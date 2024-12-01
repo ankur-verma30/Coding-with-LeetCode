@@ -9,10 +9,8 @@ public:
             bits+=(val+'0');
             n=n>>1;
         }
-
-        bool allOne=true;
         int len=bits.length();
-        
+
         return (1<<len)-1;
 
     }
