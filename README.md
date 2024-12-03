@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2481-strictly-palindromic-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -817,4 +819,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
