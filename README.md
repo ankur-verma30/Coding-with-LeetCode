@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0290-word-pattern) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0721-accounts-merge) |
