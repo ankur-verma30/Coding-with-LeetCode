@@ -4,8 +4,10 @@ public:
         set<int> st;
         int count = 0, sum = 0;
 
-        for (int i = 0; i < banned.size(); i++)
+        for (int i = 0; i < banned.size(); i++){
+        if(banned[i]>n) continue;
             st.insert(banned[i]);
+        }
 
         for (int i = 1; i <= n; i++) {
             if (st.count(i) <= 0) {
