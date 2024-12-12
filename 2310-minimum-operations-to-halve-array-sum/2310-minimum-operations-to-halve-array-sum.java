@@ -9,15 +9,14 @@ class Solution {
             sum += num;
         }
         int operation = 0;
-        double target=sum/2.0;
-        double ans = sum;
-        
-       while(ans>target ){
+        double ans = 0;
+       while(ans <= (double) sum/2.0){
         operation++;
         double maxheap =pq.poll();
         double div = maxheap/2.0;
-        ans -= div;
+        ans += div;
          pq.add(div);
+         if(ans==(double)sum/2.0) break;
 
 
        }
