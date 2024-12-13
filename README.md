@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1488-sort-integers-by-the-power-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -882,4 +884,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
