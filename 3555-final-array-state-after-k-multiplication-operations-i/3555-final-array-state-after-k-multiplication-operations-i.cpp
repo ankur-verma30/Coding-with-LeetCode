@@ -1,19 +1,19 @@
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        vector<int> res(nums.begin(), nums.end());
+         int n = nums.size();
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
 
-        while (k--) {
-            int value = INT_MAX, index = -1;
-            for (int i = 0; i < res.size(); i++) {
-                if (value > res[i]) {
-                    value = res[i];
-                    index = i;
-                }
-            }
-            res[index] = value * multiplier;
+        for(int i=0;i<n;i++) minHeap.push({nums[i],i});
+        
+
+        while(k--){
+            auto [value,index] = minHeap.top();
+            nums[index] = nums[index]*multiplier;
+            minHeap.pop();
+            minHeap.push({nums[index],index});
+
         }
-
-        return res;
+        return nums;
     }
 };
