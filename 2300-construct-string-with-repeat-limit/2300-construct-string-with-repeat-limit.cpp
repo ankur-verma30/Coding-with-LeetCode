@@ -1,41 +1,33 @@
 class Solution {
 public:
     string repeatLimitedString(string s, int repeatLimit) {
-        unordered_map<char,int>freq;
+        vector<int> freq(26, 0);
 
-        for(const auto &ch:s) freq[ch]++;
+        for (char ch : s)
+            freq[ch - 'a']++;
 
-        priority_queue<char>pq;
-
-        for(const auto &[ch,fr]:freq) pq.push(ch);
-
-        char repeatWord='#';
-
-        string res="";
-        while(!pq.empty()){
-            int limit=repeatLimit;
-            char ele=pq.top();
-            pq.pop();
-            if(repeatWord!='#'){
-                res+=ele;
-                freq[ele]--;
-                if(freq[ele]==0) freq.erase(ele);
-                else pq.push(ele);
-                pq.push(repeatWord);
-                repeatWord='#';
+        string res = "";
+        int index = 25;
+        while (index >= 0) {
+            if (freq[index] == 0) {
+                index--;
                 continue;
             }
-            int count=freq[ele];
-            if(count<=limit){
-                for(int i=0;i<count;i++) res+=ele;
-                freq.erase(ele);
-            }
-            else {
-                int used=min(limit,count);
-                for(int i=0;i<used;i++) res+=ele;
-                freq[ele]=count-used;
-                if(repeatWord=='#') repeatWord=ele;
 
+            int used = min(freq[index], repeatLimit);
+            for (int k = 0; k < used; k++)
+                res += (char)('a' + index);
+            freq[index] -= used;
+
+            if (freq[index] > 0) {
+                int prevIndex = index - 1;
+                while (prevIndex >= 0 && freq[prevIndex] == 0)
+                    prevIndex--;
+                if (prevIndex < 0)
+                    break;
+
+                res += (char)('a' + prevIndex);
+                freq[prevIndex]--;
             }
         }
 
