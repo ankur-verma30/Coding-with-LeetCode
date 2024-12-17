@@ -1,7 +1,7 @@
 class Solution {
 public:
     string repeatLimitedString(string s, int repeatLimit) {
-         unordered_map<char,int>freq;
+        unordered_map<char,int>freq;
 
         for(const auto &ch:s) freq[ch]++;
 
@@ -20,6 +20,7 @@ public:
                 res+=ele;
                 freq[ele]--;
                 if(freq[ele]==0) freq.erase(ele);
+                else pq.push(ele);
                 pq.push(repeatWord);
                 repeatWord='#';
                 continue;
@@ -34,16 +35,7 @@ public:
                 for(int i=0;i<used;i++) res+=ele;
                 freq[ele]=count-used;
                 if(repeatWord=='#') repeatWord=ele;
-                if(!pq.empty()){
-                    char nextEle=pq.top();
-                    pq.pop();
-                    res+=nextEle;
-                    freq[nextEle]--;
-                    if(freq[nextEle]==0) freq.erase(nextEle);
-                    else pq.push(nextEle);
-                    pq.push(repeatWord);
-                    repeatWord='#';
-                }
+
             }
         }
 
