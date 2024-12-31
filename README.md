@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1025-minimum-cost-for-tickets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
