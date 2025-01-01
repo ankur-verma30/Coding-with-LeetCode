@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0130-surrounded-regions) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0721-accounts-merge) |
