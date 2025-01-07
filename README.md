@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0518-coin-change-ii) |
@@ -878,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0547-number-of-provinces) |
