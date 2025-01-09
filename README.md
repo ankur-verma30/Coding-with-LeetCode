@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0606-construct-string-from-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0721-accounts-merge](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0721-accounts-merge) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1025-minimum-cost-for-tickets) |
