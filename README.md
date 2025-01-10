@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0768-partition-labels) |
+| [1454-remove-palindromic-subsequences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1454-remove-palindromic-subsequences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1524-string-matching-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
