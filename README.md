@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
