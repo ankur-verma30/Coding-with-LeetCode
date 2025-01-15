@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
+| [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1170-shortest-common-supersequence) |
