@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0130-surrounded-regions) |
+| [0407-trapping-rain-water-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -955,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0547-number-of-provinces) |
