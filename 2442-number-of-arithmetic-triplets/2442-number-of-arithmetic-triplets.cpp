@@ -1,31 +1,36 @@
 class Solution {
 public:
     int arithmeticTriplets(vector<int>& nums, int diff) {
-        int n=nums.size(),i=0,count=0;
+        int n=nums.size(),count=0;
 
+        //optimised code some changes required
+        unordered_map<int,int>mpp;
 
-        for(int i=0;i<n-2;i++){
-            for(int j=i+1;j<n-1;j++){
-                for(int k=j+1;k<n;k++ ){
-                    if((nums[j]-nums[i]==diff) && (nums[k]-nums[j]==diff)) count++;
+        for(int i=0;i<n;i++) mpp[nums[i]]=i;
+   
+        for(int i=0;i<n-1;i++){
+            for(int j=i+1;j<n;j++){
+                if(nums[j]-nums[i]>diff) break;
+                if(nums[j]-nums[i]==diff){
+                    if(mpp.find(nums[j]+diff)!=mpp.end()){
+                        if(mpp[nums[j]+diff]>j) count++;
+                    }
                 }
             }
         }
 
-        
-
-        // while(i<n-2){
-        //     int j=i+1,k=n-1;
-        //     if(nums[j]-nums[i]==diff){
-        //         for(int k=j+1;k<n;k++){
-        //             if(nums[k]-nums[j]>diff) break;
-        //             else if(nums[k]-nums[j]==diff) count++;
-        //         }
-        //     }
-        //     else if(nums[j]-nums[i]<diff) j++;
-        //     else if(nums[j]-nums[i]>diff) i++;
-        // }
-
         return count;
+      
     }
 };
+
+/*
+        //Brute force
+         for(int i=0;i<n-2;i++){
+             for(int j=i+1;j<n-1;j++){
+                for(int k=j+1;k<n;k++ ){
+                    if((nums[j]-nums[i]==diff) && (nums[k]-nums[j]==diff)) count++;
+                }
+            }
+         }
+*/
