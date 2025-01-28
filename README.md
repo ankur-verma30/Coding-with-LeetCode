@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Tree
 |  |
@@ -921,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Prefix Sum
 |  |
@@ -1002,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Monotonic Stack
@@ -1024,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
