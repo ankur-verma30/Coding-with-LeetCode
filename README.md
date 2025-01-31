@@ -654,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1955-seat-reservation-manager](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -780,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
+| [1955-seat-reservation-manager](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
 |  |
