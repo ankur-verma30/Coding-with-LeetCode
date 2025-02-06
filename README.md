@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1364-tuple-with-same-product](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
