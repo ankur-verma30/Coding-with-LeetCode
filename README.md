@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3427-special-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3226-minimum-number-game) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -613,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
