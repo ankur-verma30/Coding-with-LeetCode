@@ -10,26 +10,19 @@ public:
 
         //ball already colored;
         if(ballColor.find(ball)!=ballColor.end()){
-            int prevColor=ballColor[ball];
-            if(color!=prevColor){
-                colorCount[prevColor]--;
-                if(colorCount[prevColor]==0) colorCount.erase(prevColor);
-                 colorCount[color]++;
-                 cout<<"map size "<<colorCount.size()<<endl;
-                
-            }
-            else {
+            if(color==ballColor[ball]) {
                  res.push_back(colorCount.size());
                  continue;
             }
+            else{
+                colorCount[ballColor[ball]]--;
+                if(colorCount[ballColor[ball]]==0) colorCount.erase(ballColor[ball]);
+                 colorCount[color]++; 
+            }
         }
-        else {
-             colorCount[color]++;
-             cout<<"map size "<<colorCount.size()<<endl;
-        }
+        else  colorCount[color]++;
             ballColor[ball]=color;
          res.push_back(colorCount.size());
-       
         } 
 
        return res;
