@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -845,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [1955-seat-reservation-manager](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -901,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -1027,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1940-maximum-xor-for-each-query) |
