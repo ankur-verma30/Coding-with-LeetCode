@@ -7,9 +7,7 @@ public:
         string res;
         int i = n1 - 1, j = n2 - 1, carry = 0, sum = 0, rem = 0;
         while (i >= 0 && j >= 0) {
-            int val1 = ans[i] - '0';
-            int val2 = str[j] - '0';
-            sum = val1 + val2 + carry;
+            sum =(ans[i]-'0') +(str[j]-'0') + carry;
             rem = sum % 10;
             res += to_string(rem);
             carry = sum / 10;
