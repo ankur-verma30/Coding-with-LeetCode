@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0952-word-subsets) |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0889-buddy-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -704,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -844,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0784-insert-into-a-binary-search-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -904,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0784-insert-into-a-binary-search-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
