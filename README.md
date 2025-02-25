@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -972,6 +974,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1488-sort-integers-by-the-power-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1061,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
