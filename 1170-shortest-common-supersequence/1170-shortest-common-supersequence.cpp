@@ -44,6 +44,6 @@ public:
         }
 
         reverse(scs.begin(), scs.end());
-        return scs; 
+        return scs;
     }
 };
