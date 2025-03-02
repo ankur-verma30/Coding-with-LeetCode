@@ -3,9 +3,6 @@ public:
     vector<vector<int>> mergeArrays(vector<vector<int>>& nums1,
                                     vector<vector<int>>& nums2) {
         vector<vector<int>> res;
-        int n1 = nums1.size();
-        int n2 = nums2.size();
-
         unordered_map<int, int> mp;
 
         for (const auto num : nums1)
