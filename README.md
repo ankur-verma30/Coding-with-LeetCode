@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1028-interval-list-intersections](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0768-partition-labels) |
+| [1028-interval-list-intersections](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1028-interval-list-intersections) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1283,4 +1285,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
