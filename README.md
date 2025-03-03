@@ -502,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2580-circular-sentence) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
