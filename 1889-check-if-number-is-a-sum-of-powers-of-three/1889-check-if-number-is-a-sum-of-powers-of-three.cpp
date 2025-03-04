@@ -8,19 +8,16 @@ public:
        }
     }
     bool checkPowersOfThree(int n) {
-       vector<int> power;
-        powerOfThree(n, power);
-        int len = power.size() - 1;
+       vector<int>power;
+        powerOfThree(n,power);
+        int i=power.size(),len=i-1;
 
-        while (len >= 0 && n > 0) {
-            if (power[len] == n) {
-                return true;
-            } else if (power[len] < n) {
-                n -= power[len];
-            }
-            len--;
+        while(len>=0 && n>0){
+            if(power[len]==n) return true;
+            else if(power[len]<n)  n-=power[len];
+                len--;
         }
 
-        return n == 0;
+       return n==0;
     }
 };
