@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
@@ -1176,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
