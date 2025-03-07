@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -1132,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Breadth-First Search
