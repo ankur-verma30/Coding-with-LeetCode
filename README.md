@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1222-remove-covered-intervals) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -569,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1191,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
