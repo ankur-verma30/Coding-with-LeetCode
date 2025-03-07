@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -574,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1304-longest-happy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1199,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
