@@ -547,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3451-string-compression-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sorting
 |  |
@@ -864,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
