@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3791-fruits-into-baskets-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -805,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Merge Sort
 |  |
 | ------- |
