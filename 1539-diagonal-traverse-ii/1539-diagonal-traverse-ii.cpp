@@ -1,12 +1,9 @@
 class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& nums) {
-        int maxCols = 0, row = nums.size();
+        int row = nums.size();
 
-        for (int i = 0; i < row; i++) {
-            maxCols = max(maxCols, (int)nums[i].size());
-        }
-
+      
         map < int, vector<int>> mpp;
          for (int r = row-1; r >= 0; r--) {
             for (int col = 0; col < nums[r].size(); col++) {
