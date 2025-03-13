@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
@@ -894,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
