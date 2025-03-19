@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1767-design-front-middle-back-queue](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1124,6 +1127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1196,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
 |  |
