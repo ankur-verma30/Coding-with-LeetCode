@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
@@ -1125,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1297,6 +1299,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -1318,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3189-find-champion-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Trie
