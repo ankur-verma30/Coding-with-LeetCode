@@ -1063,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0813-all-paths-from-source-to-target](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1163,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1252,6 +1254,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1318,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-network-delay-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
