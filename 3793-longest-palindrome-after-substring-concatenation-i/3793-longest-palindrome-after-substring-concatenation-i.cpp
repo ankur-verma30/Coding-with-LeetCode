@@ -10,30 +10,28 @@ public:
         return true;
     }
 
-    int longestPalindrome(string s, string t) {
-
-        int n1=s.length(),n2=t.length();
-        int maxLength=0;
-        vector<string>subStringOfS,subStringOfT;
-        for(int i=0;i<n1;i++){
-            for(int j=0;j<n1;j++){
-                string temp=s.substr(i,j-i+1);
+    vector<string>GenerateSubstring(string &str,int &maxLength){
+        int n=str.length();
+        vector<string>subString;
+       for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                string temp=str.substr(i,j-i+1);
                 int len=temp.length();
                 if(isPalindrome(temp)) maxLength=max(maxLength,len); 
-                subStringOfS.push_back(temp);
+                subString.push_back(temp);
             }
         }
+        return subString;  
+    }
 
-         for(int i=0;i<n2;i++){
-            for(int j=0;j<n2;j++){
-                string temp=t.substr(i,j-i+1);
-                int len=temp.length();
-                if(isPalindrome(temp)) maxLength=max(maxLength,len);
-                subStringOfT.push_back(temp);
-            }
-        }
+    int longestPalindrome(string s, string t) {
 
-        n1=subStringOfS.size(),n2=subStringOfT.size();
+        int maxLength=0;
+        vector<string>subStringOfS=GenerateSubstring(s,maxLength);
+        vector<string>subStringOfT=GenerateSubstring(t,maxLength);
+        
+        int n1=subStringOfS.size(),n2=subStringOfT.size();
+        
         for(int i=0;i<n1;i++){
             for(int j=0;j<n2;j++){
                 string temp=subStringOfS[i]+subStringOfT[j];
