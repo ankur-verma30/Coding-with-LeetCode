@@ -1,8 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<vector<int>>& grid, int x) {
-        int row = grid.size();
-        int col = grid[0].size();
+        int row = grid.size(),col = grid[0].size();
         vector<int> Grid;
 
         for (int i = 0; i < row; i++) {
@@ -11,10 +10,10 @@ public:
         }
 
         sort(Grid.begin(), Grid.end());
-        int median = (row * col) / 2;
 
-        int val = Grid[median];
-        int operations = 0;
+        int median = (row * col) / 2;
+        int val = Grid[median],operations = 0;
+
         for (int i = 0; i < row * col; i++) {
             int diff = abs(val - Grid[i]);
             if (diff % x != 0)
