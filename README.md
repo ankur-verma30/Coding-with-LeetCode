@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -788,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -939,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
