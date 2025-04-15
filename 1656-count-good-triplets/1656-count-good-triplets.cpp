@@ -11,7 +11,7 @@ public:
                 for (int k = j + 1; k < n; k++) {
                     int canB = abs(arr[j] - arr[k]);
                     int canC = abs(arr[k] - arr[i]);
-                    if (canA <= a && canB <= b && canC <= c)
+                    if ( canB <= b && canC <= c)
                         count++;
                 }
             }
