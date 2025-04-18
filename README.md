@@ -594,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
 | ------- |
@@ -829,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -921,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
