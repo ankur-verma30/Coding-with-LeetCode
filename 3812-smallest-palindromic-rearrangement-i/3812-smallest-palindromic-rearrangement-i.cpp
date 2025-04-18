@@ -19,14 +19,10 @@ public:
             while (half--)
                 temp += ch;
         }
+
         string other_half=temp;
-        if(!temp.empty())
         reverse(temp.begin(), temp.end());
-        string ans;
-        if (flag) {
-            ans +=other_half+c+temp;
-            return ans;
-            }
+        if (flag) return other_half+c+temp;
         return other_half+temp;
     }
 };
