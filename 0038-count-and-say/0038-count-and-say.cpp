@@ -4,7 +4,6 @@ public:
         string str = "1";
 
         for (int i = 1; i < n; i++) {
-            unordered_map<char, int> mpp;
             int count = 0;
             char prev = str[0];
             string temp;
