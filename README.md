@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
@@ -1140,6 +1141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1261,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1475,4 +1478,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
