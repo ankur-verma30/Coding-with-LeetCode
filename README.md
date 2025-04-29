@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -955,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2478-longest-nice-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
