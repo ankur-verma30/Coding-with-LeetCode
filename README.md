@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2058-concatenation-of-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
