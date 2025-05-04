@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1222-remove-covered-intervals) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -744,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0990-verifying-an-alien-dictionary](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -929,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-letter-tile-possibilities](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
