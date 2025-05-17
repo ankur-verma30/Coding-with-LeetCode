@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
@@ -811,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0435-non-overlapping-intervals) |
