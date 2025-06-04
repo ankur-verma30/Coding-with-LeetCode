@@ -513,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -1296,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
