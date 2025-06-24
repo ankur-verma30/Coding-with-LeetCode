@@ -9,7 +9,10 @@ public:
             bool isFound=false;
             for(int j=0;j<n;j++){
                 if(nums[j]!=key) continue;
-                else if(abs(i-j)<=k) isFound=true;   
+                else if(abs(i-j)<=k) {
+                    isFound=true; 
+                    break;
+                }  
             }
             if(isFound) ans.push_back(i);
         }
