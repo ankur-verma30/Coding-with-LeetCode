@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -953,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -983,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0940-fruit-into-baskets) |
