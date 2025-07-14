@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1500-count-largest-group) |
