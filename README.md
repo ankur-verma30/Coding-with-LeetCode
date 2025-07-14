@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0768-partition-labels) |
 | [1028-interval-list-intersections](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1028-interval-list-intersections) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1454-remove-palindromic-subsequences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1560,4 +1563,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
