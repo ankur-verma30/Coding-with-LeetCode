@@ -639,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3451-string-compression-iii) |
