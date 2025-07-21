@@ -4,9 +4,8 @@ public:
 
         if(s.length()<3) return s;
         string str = "";
-        int count = 1;
         
-
+        int count = 1;
         char prev = s[0];
         str += prev;
 
