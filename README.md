@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1767-design-front-middle-back-queue](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2044-number-of-wonderful-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2044-number-of-wonderful-substrings) |
@@ -1024,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
