@@ -4,7 +4,7 @@ public:
         stack<char> st;
         int total = 0;
         for (int i = 0; i < s.length(); i++) {
-            if (st.size() == 0)
+            if (st.empty())
                 st.push(s[i]);
             else {
                 if (s[i] == temp[1] && st.top() == temp[0]) {
