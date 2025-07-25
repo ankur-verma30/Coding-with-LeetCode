@@ -1,24 +1,17 @@
 class Solution {
 public:
     int maximumGroups(vector<int>& grades) {
-        int n=grades.size();
-           if(n==1) return 1;
-        sort(grades.begin(),grades.end());
+        int n=grades.size(),low=0,high=1000,ans=0;
 
-        int initialSize=1,currSize=0,initialScore=grades[0], currScore=0,totalGroupCount=1;
-
-
-        for(int i=1;i<n;i++){
-            currScore+=grades[i];
-            currSize++;
-            if(currScore>initialScore && currSize>initialSize){
-                initialScore=currScore;
-                initialSize=currSize;
-                totalGroupCount++;
-                currSize=0;
-                currScore=0;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if((mid*(mid+1))/2<=n){
+                ans=mid;
+                low=mid+1;
             }
+            else high=mid-1;
         }
-        return totalGroupCount;
+
+        return ans;
     }
 };
