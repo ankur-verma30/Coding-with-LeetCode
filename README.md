@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
 ## Binary Search
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
 ## Linked List
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -1552,6 +1555,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Queue
@@ -1566,6 +1570,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Rolling Hash
 |  |
