@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0556-next-greater-element-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1269,6 +1271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
