@@ -2,8 +2,6 @@ class Solution {
     public String largestGoodInteger(String num) {
         String ans = "";
         int len = num.length();
-        if (len < 3)
-            return "";
 
         for (int i = 0; i <= len - 3; i++) {
             if (num.charAt(i) == num.charAt(i + 1) &&
