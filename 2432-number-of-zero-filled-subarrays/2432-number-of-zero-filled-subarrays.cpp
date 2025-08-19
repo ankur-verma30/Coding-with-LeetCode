@@ -5,7 +5,10 @@ public:
 
         int n = nums.size();
         for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) count++;
+            if (nums[i] == 0) {
+                count++;
+                continue;
+            }
              else {
                 ans += (count * (count + 1) / 2);
                 count = 0;
