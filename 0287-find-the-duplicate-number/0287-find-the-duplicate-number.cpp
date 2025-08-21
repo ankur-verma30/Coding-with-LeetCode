@@ -1,22 +1,24 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-       int n=nums.size();
-       int low=1,high =n-1,ans=0;
-
-       while(low<=high){
-        int mid=low+(high-low)/2;
-        int count=0;
+        vector<int>bitsCount(32,0);
+        int n=nums.size();
         for(int i=0;i<n;i++){
-            if(nums[i]<=mid) count++;
+            for(int bit=0;bit<=31;bit++){
+                if(nums[i] & (1 << bit)) bitsCount[bit]++;
+            }
         }
-        if(count<=mid) low=mid+1;
-        else{
-            ans=mid;
-            high=mid-1;
-        }
-       }
 
-       return ans;
+        for(int num=1;num<n;num++){
+            for(int bit=0;bit<=31;bit++){
+                if(num & (1 << bit)) bitsCount[bit]--;
+            }
+        }
+        int ans=0;
+        for(int i=0;i<=31;i++){
+            if(bitsCount[i]>0) ans+=(1<<i);
+        }
+
+        return ans;
     }
 };
