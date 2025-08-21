@@ -1,26 +1,19 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int[] bitsCount= new int[32];
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
-            for (int bit = 0; bit <= 31; bit++) {
-                if ((nums[i] & (1 << bit))!=0)
-                    bitsCount[bit]++;
-            }
+        int slow=0,fast=0;
+        
+        do{
+            slow=nums[slow];
+            fast=nums[nums[fast]];
+        }while(slow!=fast);
+
+        slow=0;
+
+        while(slow!=fast){
+            slow=nums[slow];
+            fast=nums[fast];
         }
 
-        for (int num = 1; num < n; num++) {
-            for (int bit = 0; bit <= 31; bit++) {
-                if ((num & (1 << bit))!=0)
-                    bitsCount[bit]--;
-            }
-        }
-        int ans = 0;
-        for (int i = 0; i <= 31; i++) {
-            if (bitsCount[i] > 0)
-                ans += (1 << i);
-        }
-
-        return ans;
+        return slow;
     }
 }
