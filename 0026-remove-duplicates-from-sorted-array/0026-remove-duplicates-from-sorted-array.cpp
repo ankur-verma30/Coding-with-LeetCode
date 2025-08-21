@@ -1,29 +1,18 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-  int j = 1;
-        for(int i = 1; i < nums.size(); i++){
-            if(nums[i] != nums[i - 1]){
-                nums[j] = nums[i];
+        int j=0,count=1;
+
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]==nums[j]) continue;
+            else{
                 j++;
+                count++;
+                nums[j]=nums[i];
             }
         }
-        return j;
+
+        nums.resize(count);
+        return count;
     }
 };
-
-
-
-/*
-
-Sometimes things are good without using STL
-
- unordered_set<int> s;
-   for(auto x:nums)
-   s.insert(x);
-   nums.clear();
-   for(auto x:s)
-   nums.push_back(x);
-sort(nums.begin(),nums.end());
-   return nums.size();
-   */
