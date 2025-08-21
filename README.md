@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -1287,6 +1290,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
