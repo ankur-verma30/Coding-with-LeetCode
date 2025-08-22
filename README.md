@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1383,6 +1384,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
