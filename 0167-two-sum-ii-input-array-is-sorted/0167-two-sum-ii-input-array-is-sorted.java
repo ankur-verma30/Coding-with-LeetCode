@@ -1,12 +1,21 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int i=0,j=nums.length-1;
+        int n = nums.length;
 
-        while(i<j){
-            int sum=nums[i]+nums[j];
-            if(sum==target && i!=j) return new int[]{i+1,j+1};
-            else if(sum>target) j--;
-            else i++;
+        for (int i = 0; i < n; i++) {
+            int val1 = nums[i];
+            int complement = target - val1;
+
+            int low = 0, high = n - 1;
+            while (low <= high) {
+                int mid = low + (high - low) / 2;
+                if (complement == nums[mid] && mid != i)
+                    return new int[]{i + 1, mid + 1};
+                else if (complement < nums[mid])
+                    high = mid - 1;
+                else
+                    low = mid + 1;
+            }
         }
 
         return new int[]{};
