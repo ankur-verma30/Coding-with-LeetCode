@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0018-4sum) |
@@ -787,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
