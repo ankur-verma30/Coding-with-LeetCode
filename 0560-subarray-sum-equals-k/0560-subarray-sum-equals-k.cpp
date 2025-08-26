@@ -1,18 +1,18 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int prefixSum = 0, count = 0;
-        unordered_map<int, int> prefixFreq;
+        unordered_map<int,int>sumPrefix;
+        int ans=0,sum=0,n=nums.size();
+        sumPrefix[0]=0;
 
-        prefixFreq[0] = 1;
-
-        for (const auto num : nums) {
-            prefixSum += num;
-            int remove = prefixSum - k;
-            count += prefixFreq[remove];
-            prefixFreq[prefixSum]++;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+            if(sum==k) ans++;
+            if(sumPrefix.find(sum-k)!=sumPrefix.end()){
+                ans+=sumPrefix[sum-k];
+            }
+            sumPrefix[sum]++;
         }
-
-        return count;
+        return ans;
     }
 };
