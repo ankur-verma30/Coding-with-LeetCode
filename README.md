@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -948,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1010,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1122,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
