@@ -783,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -948,6 +949,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1014,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1554,6 +1557,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3189-find-champion-ii) |
