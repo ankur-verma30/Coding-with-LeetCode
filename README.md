@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -938,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1222-remove-covered-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1488-sort-integers-by-the-power-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1004,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1304-longest-happy-string) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1539-diagonal-traverse-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1539-diagonal-traverse-ii) |
@@ -1127,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1572-subrectangle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
