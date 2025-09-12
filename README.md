@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2845-find-the-value-of-the-partition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -971,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2845-find-the-value-of-the-partition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3226-minimum-number-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3226-minimum-number-game) |
