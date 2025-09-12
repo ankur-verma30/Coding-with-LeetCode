@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2998-count-symmetric-integers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -1445,6 +1447,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2481-strictly-palindromic-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -1665,6 +1668,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
 | ------- |
