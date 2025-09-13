@@ -698,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -1098,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
