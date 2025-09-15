@@ -632,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -853,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
