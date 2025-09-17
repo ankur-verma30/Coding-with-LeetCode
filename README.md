@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2378-sender-with-largest-word-count](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2406-decode-the-message](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -886,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2406-decode-the-message](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1036,6 +1039,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1219,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1955-seat-reservation-manager](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
 ## Binary Search Tree
@@ -1635,6 +1640,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
