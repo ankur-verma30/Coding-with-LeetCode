@@ -1,7 +1,14 @@
 class FoodRatings {
+    struct Compare{
+        bool operator()(pair<int,string>&a,pair<int,string>&b){
+            if(a.first==b.first) return a.second>b.second;
+            return a.first<b.first;
+        }
+    };
     unordered_map<string, string> foodToCuisine;
     unordered_map<string, int> foodToRating;
-    unordered_map<string, set<pair<int, string>>> cuisineToFoods;
+    unordered_map<string, priority_queue<pair<int,string>,vector<pair<int,string>>,Compare>> cuisineToFoods;
+
 
 public:
     FoodRatings(vector<string>& foods, vector<string>& cuisines, vector<int>& ratings) {
@@ -13,7 +20,9 @@ public:
 
             foodToCuisine[food] = cuisine;
             foodToRating[food] = rating;
-            cuisineToFoods[cuisine].insert({-rating, food});
+            cuisineToFoods[cuisine].push({rating, food});
+            
+
         }
     }
     
@@ -21,12 +30,17 @@ public:
         string cuisine = foodToCuisine[food];
         int oldRating = foodToRating[food];
 
-        cuisineToFoods[cuisine].erase({-oldRating, food});
         foodToRating[food] = newRating;
-        cuisineToFoods[cuisine].insert({-newRating, food});
+        cuisineToFoods[cuisine].push({newRating, food});
     }
     
     string highestRated(string cuisine) {
-        return cuisineToFoods[cuisine].begin()->second; 
+         auto &pq = cuisineToFoods[cuisine];
+        while (!pq.empty()) {
+            auto [rating, food] = pq.top();
+            if (foodToRating[food] == rating) return food; 
+            pq.pop(); 
+        }
+        return ""; 
     }
 };
