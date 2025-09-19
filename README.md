@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3617-find-the-original-typed-string-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
@@ -921,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -1168,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -1225,6 +1229,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
