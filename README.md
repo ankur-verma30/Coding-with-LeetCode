@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2580-circular-sentence) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
@@ -1484,6 +1486,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
