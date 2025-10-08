@@ -2,15 +2,14 @@ class Solution {
 public:
     int numberOfBeams(vector<string>& bank) {
         int totalCount = 0, n = bank.size();
-        auto countOnes = count(bank[0].begin(), bank[0].end(), '1');
+        int countOnes = count(bank[0].begin(), bank[0].end(), '1');
 
         for (int i = 1; i < n; i++) {
-            auto val = count(bank[i].begin(), bank[i].end(), '1');
+            int val = count(bank[i].begin(), bank[i].end(), '1');
             if (val > 0) {
                 totalCount += (val * countOnes);
                 countOnes = val;
             }
-            cout<<totalCount<<" at each i "<<i<<endl;
         }
         return totalCount;
     }
