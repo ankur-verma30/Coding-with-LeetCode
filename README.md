@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2378-sender-with-largest-word-count](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -999,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
