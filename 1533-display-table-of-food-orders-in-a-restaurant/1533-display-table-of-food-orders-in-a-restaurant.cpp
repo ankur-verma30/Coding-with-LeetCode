@@ -3,32 +3,33 @@ public:
     vector<vector<string>> displayTable(vector<vector<string>>& orders) {
         set<string> foods;
         set<int> tableNum;
-        map<pair<int, string>, int> freq; // key = tableNumber,food value =++;
+        map<pair<int, string>, int> freq; // key = (tableNumber, foodItem)
 
         for (vector<string> order : orders) {
-            string tableNumber = order[1];
+            int table = stoi(order[1]);
             string foodItem = order[2];
             foods.insert(foodItem);
-            tableNum.insert(stoi(tableNumber));
-            freq[{stoi(tableNumber), foodItem}]++;
+            tableNum.insert(table);
+            freq[{table, foodItem}]++;
         }
 
         vector<vector<string>> result;
 
-        vector<string> temp = {"Table"};
-        for (const string &c : foods)
-            temp.push_back(c);
+        // Header row
+        vector<string> header = {"Table"};
+        for (const string& food : foods)
+            header.push_back(food);
+        result.push_back(header);
 
-        result.push_back(temp);
-
-        for (const auto table : tableNum) {
-            vector<string> curr;
-            curr.push_back(to_string(table));
-            for (const auto food : foods) {
+        // Rows for each table
+        for (int table : tableNum) {
+            vector<string> row;
+            row.push_back(to_string(table));
+            for (const string& food : foods) {
                 int count = freq[{table, food}];
-                curr.push_back(to_string(count));
+                row.push_back(to_string(count));
             }
-            result.push_back(curr);
+            result.push_back(row);
         }
 
         return result;
