@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
