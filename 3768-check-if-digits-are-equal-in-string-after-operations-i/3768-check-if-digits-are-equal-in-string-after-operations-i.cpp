@@ -12,7 +12,6 @@ public:
         return st;
     }
     bool hasSameDigits(string s) {
-        int n=s.length();
 
         string ans=operationalString(s);
         while(ans.size()>2){
