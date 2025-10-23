@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3540-hash-divided-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3617-find-the-original-typed-string-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1544,6 +1547,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2610-closest-prime-numbers-in-range](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1745,6 +1749,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Game Theory
 |  |
 | ------- |
