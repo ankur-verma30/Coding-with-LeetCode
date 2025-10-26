@@ -1,14 +1,18 @@
 class Bank {
 public:
-    unordered_map<int,long long>bank;
+    vector<long long>bank;
+    int size;
     Bank(vector<long long>& balance) {
+        int n=balance.size();
+        this->size=n;
+        bank.resize(size+1);
         for(int i=0;i<balance.size();i++){
             bank[i+1]=balance[i];
         }
     }
     
     bool transfer(int account1, int account2, long long money) {
-        if( !bank.count(account1) || !bank.count(account2)) return false;
+        if(account1>size || account2>size) return false;
         if (bank[account1] < money) return false;
         long long currMoney=bank[account1];
         bank[account1]=currMoney-money;
@@ -18,13 +22,13 @@ public:
     }
     
     bool deposit(int account, long long money) {
-        if(!bank.count(account)) return false;
+        if(account>size) return false;
         bank[account]+=money;
         return true;
     }
     
     bool withdraw(int account, long long money) {
-         if(!bank.count(account)) return false;
+        if(account>size) return false;
          if(bank[account]<money) return false;
          if(money<=bank[account]) bank[account]-=money;
          return true;
