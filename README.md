@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -851,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2509-minimize-xor) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -1033,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -1522,6 +1526,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
