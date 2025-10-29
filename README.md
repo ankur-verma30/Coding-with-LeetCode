@@ -563,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3462-vowels-game-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3830-find-closest-person) |
@@ -1443,6 +1444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3394-minimum-array-end](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Depth-First Search
 |  |
 | ------- |
