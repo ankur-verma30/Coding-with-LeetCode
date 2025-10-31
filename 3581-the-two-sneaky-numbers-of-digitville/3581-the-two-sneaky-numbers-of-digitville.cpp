@@ -1,14 +1,15 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-       sort(nums.begin(),nums.end());
-       vector<int>ans;
-
-       for(int i=1;i<nums.size();i++){
-        if(nums[i-1]==nums[i]) ans.push_back(nums[i]);
-       } 
+        vector<int>freq(100,0);
+        vector<int>ans;
 
 
-       return ans;
+        for(const auto it:nums){
+            if(freq[it]) ans.push_back(it);
+            else freq[it]=1;
+
+        }
+        return ans;
     }
 };
