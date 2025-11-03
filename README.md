@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1656-count-good-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -839,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1413,6 +1416,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1488-sort-integers-by-the-power-value](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
