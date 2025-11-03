@@ -10,9 +10,7 @@ public:
             if (st.top().first == colors[i]) {
                 pair<char, int> top = st.top();
                 st.pop();
-                cout<<" prev time "<<time<<"\n";
                 time += min(top.second, neededTime[i]);
-                cout<<" changed time "<<time<<"\n";
 
                 st.push({colors[i], max(top.second, neededTime[i])});
             }
