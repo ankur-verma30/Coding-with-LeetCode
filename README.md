@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0118-pascals-triangle) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -998,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0217-contains-duplicate) |
