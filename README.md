@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2625-increment-submatrices-by-one](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1244,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2625-increment-submatrices-by-one](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1542,6 +1544,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2625-increment-submatrices-by-one](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
