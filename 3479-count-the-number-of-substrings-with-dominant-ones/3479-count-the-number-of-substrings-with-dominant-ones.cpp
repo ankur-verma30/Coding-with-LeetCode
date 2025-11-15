@@ -2,36 +2,40 @@ class Solution {
 public:
     int numberOfSubstrings(string s) {
         int n = s.length();
-        int res = 0;
+        vector<int> prefixOne(n, 0);
 
-        vector<int> prefix(n, 0);
-        prefix[0] = (s[0] == '1') ? 1 : 0;
+        prefixOne[0] = ((s[0] == '1') ? 1 : 0);
 
-        // prefix sum of ones
         for (int i = 1; i < n; i++) {
-            prefix[i] = prefix[i - 1] + ((s[i] == '1') ? 1 : 0);
+            int value = (s[i] == '1') ? 1 : 0;
+            prefixOne[i] = prefixOne[i - 1] + value;
         }
 
+        //[i,j] =prefixOne[j]-prefixOne[i-1]; gives count of ones
+        int ans = 0;
+
         for (int i = 0; i < n; i++) {
-            int zero = 0, one = 0;
-            for (int j = i; j < n; j++) {
-                one = prefix[j] - (i == 0 ? 0 : prefix[i - 1]);
-                zero = j - i + 1 - one;
-
-                if (zero * zero > one)
-                    j += (zero * zero - one - 1);
-
-                if (zero * zero <= one) {
-                    res++;
-                    int root = static_cast<int>(sqrt(one));
-                    if (root > zero) {
-                        res += (j + (root - zero)) >= n ? (n - j - 1)
-                                                        : (root - zero);
-                        j += (root - zero);
+            for (int j = i; j < n;j++) {
+                int ones = prefixOne[j] - (i - 1 >= 0 ? prefixOne[i - 1] : 0);
+                int zeroes = (j - i + 1) - ones;
+                if ((zeroes * zeroes) > ones) {
+                    int skipIndices = (zeroes * zeroes) - ones;
+                    j += skipIndices - 1;
+                } else if ((zeroes * zeroes) == ones)
+                    ans++;
+                else {
+                    ans++;
+                    int extraIndices = sqrt(ones) - zeroes;
+                    int nextIndex = j + extraIndices;
+                    if (nextIndex >= n){
+                        ans += (n - j - 1);
+                        break;
                     }
+                    else ans+=extraIndices;
+                    j=nextIndex;
                 }
             }
         }
-        return res;
+        return ans;
     }
 };
