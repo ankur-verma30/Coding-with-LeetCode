@@ -1,37 +1,37 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-        vector<vector<int>> ans(n, vector<int>(n, 0));
-        int count = 1;
+        int startCol=0,startRow=0;
+        int endCol=n-1,endRow=n-1;
 
-        int starting_row = 0, starting_col = 0, ending_row = n - 1,
-            ending_col = n - 1;
+        int total=n*n,count=0;
+        vector<vector<int>>matrix(n,vector<int>(n,0));
 
-        while (count <= n * n) {
-            for (int index = starting_col;
-                 count <= n * n && index <= ending_col; index++) {
-                ans[starting_row][index] = count++;
+        while(count<total){
+
+            for(int i=startCol;i<=endCol && count<total;i++){
+                matrix[startRow][i]=++count;
             }
-            starting_row++;
 
-            for (int index = starting_row; count <= n * n && index <= ending_row;
-                 index++) {
-                ans[index][ending_col] = count++;
-            }
-            ending_col--;
+            startRow++;
 
-            for (int index = ending_col; count <= n * n && index >= starting_col;
-                 index--) {
-                ans[ending_row][index] = count++;
+            for(int i=startRow;i<=endRow && count<total ;i++){
+                matrix[i][endCol]=++count;
+        
             }
-            ending_row--;
+            endCol--;
 
-            for (int index = ending_row; count <= n * n && index >= starting_row;
-                 index--) {
-                ans[index][starting_col] = count++;
+            for(int i=endCol;i>=startCol && count<total;i--){
+                matrix[endRow][i]=++count;
             }
-            starting_col++;
+            endRow--;
+
+            for(int i=endRow;i>=startRow && count<total ;i--){
+                matrix[i][startCol]=++count;
+            }
+            startCol++;
         }
-        return ans;
+
+        return matrix;
     }
 };
