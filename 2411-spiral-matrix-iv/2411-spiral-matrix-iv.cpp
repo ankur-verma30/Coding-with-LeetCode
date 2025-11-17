@@ -11,36 +11,61 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
-        vector<vector<int>> mat(m, vector<int>(n, -1));
-        int startRow = 0, endRow = m - 1;
-        int startCol = 0, endCol = n - 1;
+        int startCol=0,startRow=0;
+        int endCol=n-1,endRow=m-1;
 
-        while (head != nullptr) {
-            for (int i = startCol; i <= endCol && head != nullptr; i++) {
-                mat[startRow][i] = head->val;
-                head = head->next;
+        int total=m*n,count=0,val=0;
+        vector<vector<int>>matrix(m,vector<int>(n,0));
+        
+        while(count<total){
+
+            for(int i=startCol;i<=endCol && count<total ;i++){
+                if(head) {
+                    val=head->val;
+                    head=head->next;
+                }
+                else val=-1;
+                matrix[startRow][i]=val;
+                count++;
             }
+
             startRow++;
 
-            for (int i = startRow; i <= endRow && head != nullptr; i++) {
-                mat[i][endCol] = head->val;
-                head = head->next;
+            for(int i=startRow;i<=endRow && count<total ;i++){
+                 if(head) {
+                    val=head->val;
+                    head=head->next;
+                }
+                else val=-1;
+                matrix[i][endCol]=val;
+                count++;
+        
             }
             endCol--;
 
-            for (int i = endCol; i >= startCol && head != nullptr; i--) {
-                mat[endRow][i] = head->val;
-                head = head->next;
+            for(int i=endCol;i>=startCol && count<total;i--){
+                 if(head) {
+                    val=head->val;
+                    head=head->next;
+                }
+                else val=-1;
+                matrix[endRow][i]=val;
+                count++;
             }
             endRow--;
 
-            for (int i = endRow; i >= startRow && head != nullptr; i--) {
-                mat[i][startCol] = head->val;
-                head = head->next;
+            for(int i=endRow;i>=startRow && count<total ;i--){
+                 if(head) {
+                    val=head->val;
+                    head=head->next;
+                }
+                else val=-1;
+                matrix[i][startCol]=val;
+                count++;
             }
             startCol++;
         }
 
-        return mat;
+        return matrix;
     }
 };
