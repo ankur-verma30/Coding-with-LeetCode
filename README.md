@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0733-flood-fill) |
