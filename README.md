@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
