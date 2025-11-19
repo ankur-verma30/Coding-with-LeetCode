@@ -24,8 +24,12 @@ public:
                     break;
             }
             maxLen = max(maxLen, leftLen + rightLen + 1);
+            index+=rightLen;
             }
-    }
+            
+               
+        }
+
         return maxLen;
     }
 };
