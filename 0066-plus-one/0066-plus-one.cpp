@@ -1,28 +1,20 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        int carry=1;
-        reverse(digits.begin(),digits.end());
+        int carry=1,n=digits.size();
 
-        for(int i=0;i<digits.size();i++){
-            int sum=digits[i]+carry;
-            if(sum>=10){
-                digits[i]=sum%10;
-                carry=sum/10;
+        for(int i=n-1;i>=0;i--){
+            digits[i]+=carry;
+            if(digits[i]>=10) {
+                digits[i]=0;
+                carry=1;
             }
-            else{
-                 digits[i]=sum;
-                 carry=0;
-                 break;
+            else {
+                carry=0;
+                break;
             }
-            
-            
         }
-        if(carry)
-        digits.push_back(1);
-
-        reverse(digits.begin(),digits.end());
-
+        if(carry) digits.insert(digits.begin(),1);
         return digits;
     }
 };
