@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0829-subdomain-visit-count](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0854-making-a-large-island](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0921-spiral-matrix-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1028-interval-list-intersections) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
@@ -1439,6 +1441,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1588,6 +1591,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
