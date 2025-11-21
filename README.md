@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0217-contains-duplicate) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0443-string-compression) |
