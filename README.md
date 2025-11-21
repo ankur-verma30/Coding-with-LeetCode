@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0054-spiral-matrix) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1260,6 +1262,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
