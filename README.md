@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0921-spiral-matrix-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0898-transpose-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1642-water-bottles) |
@@ -1267,6 +1269,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
