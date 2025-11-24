@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0289-game-of-life](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -628,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -932,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -1053,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0561-array-partition) |
