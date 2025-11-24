@@ -1,24 +1,23 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        vector<int> ans;
+
+        int n = numbers.size();
 
         for (int i = 0; i < n; i++) {
-            int val1 = nums[i];
-            int complement = target - val1;
-
-            int low = 0, high = n - 1;
-            while (low <= high) {
-            int mid = low + (high - low) / 2;
-                if (complement == nums[mid] && mid != i)
-                    return {i + 1, mid + 1};
-                else if (complement < nums[mid])
-                    high = mid - 1;
-                else
-                    low = mid + 1;
+            auto it = lower_bound(numbers.begin(), numbers.end(),
+                                  target - numbers[i]);
+            if (it != numbers.end()) {
+                int position = it - numbers.begin();
+                if(position==i) continue;
+                if(numbers[i]+numbers[position]!=target) continue;
+                ans.push_back(i + 1);
+                ans.push_back(position + 1);
+                break;
             }
         }
-
-        return {};
+        sort(ans.begin(),ans.end());
+        return ans;
     }
 };
