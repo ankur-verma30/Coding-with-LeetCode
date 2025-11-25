@@ -3,21 +3,27 @@ public:
     int threeSumClosest(vector<int>& nums, int target) {
         int n = nums.size();
         sort(nums.begin(), nums.end());
-        int Resdiff = INT_MAX, ans = 0;
+        int closestSum = nums[0]+nums[1]+nums[2];
 
-        for (int i = 0; i < n - 2; i++) {
-            for (int j = i + 1; j < n - 1; j++) {
-                for (int k = j+ 1; k < n; k++) {
-                    int sum = nums[i] + nums[j] + nums[k];
-                    int diff = abs(sum - target);
-                    if (diff < Resdiff) {
-                        Resdiff = diff;
-                        ans = sum;
-                    }
-                }
+        int i = 0;
+
+        for (int i = 0; i < n-2; i++) {
+            if (i > 0 && nums[i] == nums[i-1]) {
+                continue;
             }
-        }
+        int j = i + 1, k = n - 1;
 
-        return ans;
+        while (j < k) {
+            int currentSum=nums[i]+nums[j]+nums[k];
+            if(abs(target-currentSum)<abs(target-closestSum)) closestSum = currentSum;
+              if (currentSum < target) {
+                    j++;
+                    while(j<k && nums[j]==nums[j-1]) j++;
+                 }else if (currentSum > target)  k--;
+                 else return target;
+        }       
+    }
+
+        return closestSum;
     }
 };
