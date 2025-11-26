@@ -1,32 +1,30 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-         int n = s.length(),maxLen=0;
-
-        vector<vector<int>> dp(n, vector<int>(n, -1));
+        int n = s.size();
+        int count = 0, maxLen = 0;
         string ans;
 
-        for (int length = 1; length <= n; length++) {
-            for (int start = 0; start + length - 1 < n; start++) {
-                int end = start + length - 1;
-                if (start == end)
-                    dp[start][end] = 1;
-                else if (start + 1 == end && s[start] == s[end])
-                    dp[start][end] = 1;
-                else {
-                    if (s[start] == s[end] && dp[start + 1][end - 1] == 1)
-                        dp[start][end] = 1;
-                }
-                if (dp[start][end] == 1){
-                int currLen = length;
-                if (currLen > maxLen) {
-                maxLen = currLen;
-                ans = s.substr(start, length);
-                    }
-                }
-            }
+        for (int i = 0; i < n; i++) {
+    auto pair1 = expandFromCenter(s, i, i);       // odd length
+    auto pair2 = expandFromCenter(s, i, i + 1);   // even length
+    auto longest = (pair1.second > pair2.second) ? pair1 : pair2;
+
+    if (longest.second > maxLen) {
+        maxLen = longest.second;
+        ans = s.substr(longest.first, maxLen);
+    }
         }
 
         return ans;
     }
+
+   pair<int, int> expandFromCenter(const string& s, int left, int right) {
+    while (left >= 0 && right < s.size() && s[left] == s[right]) {
+        left--;
+        right++;
+    }
+    return {left + 1, right - left - 1};
+}
+
 };
