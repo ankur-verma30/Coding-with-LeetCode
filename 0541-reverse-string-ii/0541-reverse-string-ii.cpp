@@ -1,16 +1,21 @@
 class Solution {
 public:
     string reverseStr(string s, int k) {
-        int len=s.length();
-        int right=0;
+        int n=s.length(),i=0;
+        if(n<=k) {
+            reverse(s.begin(),s.end());
+             return s;
+        }
 
-        while(right<len){
-            if(len-right>=2*k) reverse(s.begin()+right,s.begin()+right+k);
-
-            if(len-right<2*k && len-right>=k) reverse(s.begin()+right,s.begin()+right+k);
-
-            if(len-right<k) reverse(s.begin()+right,s.end());
-            right+=2*k;
+        while(i<n){
+            if(i+k<=n){
+                reverse(s.begin()+i,s.begin()+i+k);
+            }
+            else{
+                reverse(s.begin()+i,s.end());
+                break;
+            }
+            i+=2*k;
         }
 
         return s;
