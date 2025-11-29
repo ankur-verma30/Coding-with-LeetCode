@@ -1,14 +1,13 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-     vector<int>::iterator pend;
-     vector<int> res;
-
-     pend=remove(nums.begin(),nums.end(),val);
-      for (auto p = nums.begin(); p != pend; ++p){
-          res.push_back(*p);
-      }
-      return res.size();
-
+        int n = nums.size(), j = 0;
+        for (int i = 0; i < n; i++) {
+            if (nums[i]!=val) {
+                nums[j++] = nums[i];
+            }
+        }
+        nums.resize(j);
+        return j;
     }
 };
