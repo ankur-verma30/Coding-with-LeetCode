@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3483-alternating-groups-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3336-water-bottles-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
