@@ -1,8 +1,8 @@
 class Solution {
 public:
     long long minimumSteps(string s) {
-        int n=s.length(),firstBlackIndex=0;
-        long long blackCount=0,swapCount=0;
+        int n=s.length(),firstBlackIndex=0,blackCount=0;
+        long long swapCount=0;
 
         while(firstBlackIndex<n && s[firstBlackIndex]!='1') firstBlackIndex++;
 
