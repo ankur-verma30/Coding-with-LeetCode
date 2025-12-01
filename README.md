@@ -668,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -783,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2378-sender-with-largest-word-count](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2406-decode-the-message](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2406-decode-the-message) |
