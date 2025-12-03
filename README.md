@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -852,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1767-design-front-middle-back-queue](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1767-design-front-middle-back-queue) |
@@ -1169,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -1273,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1841,6 +1845,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
