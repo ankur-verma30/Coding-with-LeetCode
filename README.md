@@ -596,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1695,6 +1696,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
