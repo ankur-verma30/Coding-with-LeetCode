@@ -817,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2470-removing-stars-from-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2580-circular-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2580-circular-sentence) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1068,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2603-reward-top-k-students](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2603-reward-top-k-students) |
@@ -1332,6 +1334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2868-continuous-subarrays) |
