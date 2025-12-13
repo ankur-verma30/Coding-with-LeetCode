@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0721-accounts-merge) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
