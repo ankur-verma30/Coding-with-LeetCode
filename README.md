@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0611-valid-triangle-number) |
@@ -1949,5 +1950,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0278-first-bad-version) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
