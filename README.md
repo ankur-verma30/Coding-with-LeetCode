@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2155-find-missing-observations](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1579,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1696-jump-game-vi](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1696-jump-game-vi) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2554-minimum-total-distance-traveled](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
