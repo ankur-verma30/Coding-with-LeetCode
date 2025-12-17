@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
+| [1095-find-in-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1969,5 +1971,6 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0278-first-bad-version](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
