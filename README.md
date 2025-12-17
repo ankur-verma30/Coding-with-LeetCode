@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0829-subdomain-visit-count) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0923-super-egg-drop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0923-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
