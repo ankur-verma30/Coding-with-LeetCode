@@ -1,27 +1,32 @@
 class Solution {
 public:
+    int slidingWindow(vector<int>& nums, int distance) {
+        int left = 0, n = nums.size();
+
+        int pairCount = 0;
+        for (int right = 1; right < n; right++) {
+                while(nums[right] - nums[left] > distance) left++;
+                 pairCount+=(right-left);
+        }
+
+        return pairCount;
+    }
     int smallestDistancePair(vector<int>& nums, int k) {
-        int n = nums.size();
-        int maxi=*max_element(nums.begin(),nums.end());
-        int mini=*min_element(nums.begin(),nums.end());
+        int n = nums.size(), ans = 0;
+        sort(nums.begin(), nums.end());
 
-        vector<int>freq((maxi-mini+1),0);
+        int low = 0, high = nums[n - 1] - nums[0];
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int distance = abs(nums[i] - nums[j]);
-                freq[distance]++;
-            }
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            int pairCount = slidingWindow(nums, mid);
+            if (pairCount >= k) {
+                ans = mid;
+                high = mid - 1;
+            } else
+                low = mid + 1;
         }
 
-
-        int sum = 0;
-        for (int i = 0; i < maxi-mini+1; i++) {
-            sum += freq[i];
-            if (sum >= k)
-                return i;
-        }
-
-        return -1;
+        return ans;
     }
 };
