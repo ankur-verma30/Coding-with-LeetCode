@@ -4,16 +4,12 @@ public:
         long long totalHappiness = 0;
         int n = nums.size();
 
-        sort(nums.rbegin(), nums.rend());
+        sort(nums.begin(), nums.end());
 
         int count = 0;
-        for (int i = 0; i < k; i++) {
-            if (i == 0){
-                totalHappiness += nums[i];
-                continue;
-            }
-            count++;
+        for (int i = n-1; i >= n-k; i--) {
             long long value = (nums[i] - count > 0) ? nums[i] - count : 0;
+            count++;
             totalHappiness += value;
         }
 
