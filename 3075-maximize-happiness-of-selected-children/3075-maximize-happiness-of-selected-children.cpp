@@ -4,28 +4,19 @@ public:
         long long totalHappiness = 0;
         int n = nums.size();
 
-        priority_queue<int> pq;
-        bool isSelected = false;
+        sort(nums.rbegin(), nums.rend());
 
-        for (const auto it : nums)
-            pq.push(it);
-
-        long long count = 0;
-         while (k-- > 0) {
-            if (!isSelected) {
-                totalHappiness += pq.top();
-                pq.pop();
-                isSelected = true;
-            } else {
-                count++;
-                long long value = (pq.top() - count > 0) ? pq.top() - count : 0;
-                totalHappiness += value;
-                pq.pop();
+        int count = 0;
+        for (int i = 0; i < k; i++) {
+            if (i == 0){
+                totalHappiness += nums[i];
+                continue;
             }
+            count++;
+            long long value = (nums[i] - count > 0) ? nums[i] - count : 0;
+            totalHappiness += value;
         }
 
         return totalHappiness;
     }
 };
-
-// 83+61+1=
