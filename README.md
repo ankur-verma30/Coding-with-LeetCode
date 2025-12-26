@@ -848,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2487-optimal-partition-of-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2580-circular-sentence](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2580-circular-sentence) |
@@ -1727,6 +1728,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
