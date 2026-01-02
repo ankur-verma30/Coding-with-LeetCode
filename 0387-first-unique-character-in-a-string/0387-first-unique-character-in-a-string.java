@@ -10,12 +10,13 @@ class Solution {
             map.get(ch).add(i);
         }
 
-        for(int i=0;i<n;i++){
-            List<Integer> list=map.get(s.charAt(i));
-            if(list.size()==1) return list.get(0);
+        int ans=Integer.MAX_VALUE;
+        for(Map.Entry<Character,List<Integer>> entry: map.entrySet()){
+            List<Integer> list=entry.getValue();
+            if(list.size()==1) ans=Math.min(ans,list.get(0));
         }
 
-        return -1;
+        return (ans==Integer.MAX_VALUE) ? -1 : ans;
 
     }
 }
