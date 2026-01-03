@@ -9,15 +9,13 @@ class Solution {
 
             if (smapT.containsKey(c1)) {
                 if (smapT.get(c1) != c2) return false;
-            } else {
-                smapT.put(c1, c2);
-            }
+            } else  smapT.put(c1, c2);
+            
 
             if (tmapS.containsKey(c2)) {
                 if (tmapS.get(c2) != c1) return false;
-            } else {
-                tmapS.put(c2, c1);
-            }
+            } else tmapS.put(c2, c1);
+            
         }
         return true;
     }
