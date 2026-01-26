@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1073-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -1203,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
