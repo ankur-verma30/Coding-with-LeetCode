@@ -5,7 +5,7 @@ public:
         vector<int>ans(n);
 
         for(int i=0;i<arr.size();i++)
-        ans[i]=CountSetBits(arr[i])*10001+arr[i];
+        ans[i]= __builtin_popcount(arr[i])*10001+arr[i];
 
         sort(ans.begin(),ans.end());
 
@@ -13,15 +13,6 @@ public:
             ans[i] %= 10001;
 
         return ans;
-    }
-
-    int CountSetBits(int n){
-        int count=0;
-        while(n!=0){
-            count+=(n&1);
-            n=n>>1;
-    }
-        return count;
     }
 
 };
