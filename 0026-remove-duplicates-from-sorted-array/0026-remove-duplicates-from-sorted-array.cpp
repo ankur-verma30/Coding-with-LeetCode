@@ -1,24 +1,23 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        if(nums.empty()) return 0;
-        
-        int len=nums.size();
-        int index=0;
+        if (nums.empty())
+            return 0;
 
-        while(index<len-1){
-            if(nums[index]==nums[index+1]){
-                //Shift everything after i+1 one step left - O(n)
+        vector<int> temp;
+        temp.push_back(nums[0]);
 
-                for(int j=index+1;j<len-1;j++){
-                    nums[j]=nums[j+1];
-                }
-                len--; // one fewer element
-                // do no increment i: re-check nums[i] vs new nums[i+1]
-            }
-            else index++;
+        int n = nums.size();
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] != nums[i - 1])
+                temp.push_back(nums[i]);
         }
 
-        return len;
+        for (int i = 0; i < temp.size(); i++) {
+            nums[i] = temp[i];
+        }
+
+        return (int)temp.size();
     }
 };
