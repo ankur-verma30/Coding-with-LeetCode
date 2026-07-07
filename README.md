@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0969-pancake-sorting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1028-interval-list-intersections) |
@@ -989,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0969-pancake-sorting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0969-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1304-longest-happy-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1304-longest-happy-string) |
@@ -1204,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0900-reordered-power-of-2](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0948-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
