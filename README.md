@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3791-fruits-into-baskets-iii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3827-implement-router) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -680,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -1271,6 +1275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3748-sort-matrix-by-diagonals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1830,6 +1835,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
