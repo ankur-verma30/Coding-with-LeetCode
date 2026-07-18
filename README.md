@@ -877,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2378-sender-with-largest-word-count](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2378-sender-with-largest-word-count) |
 | [2406-decode-the-message](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1143,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2388-replace-elements-in-an-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2388-replace-elements-in-an-array) |
 | [2406-decode-the-message](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -1393,6 +1395,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2378-sender-with-largest-word-count](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2378-sender-with-largest-word-count) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2448-count-number-of-bad-pairs](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
