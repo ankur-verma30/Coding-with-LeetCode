@@ -5,7 +5,7 @@ public:
 
         // Delete faultyLeft
         bool isLeftFaulty = false;
-        int left = 0, right = n - 1;
+        int left = faultyLeft, right = faultyRight;
 
         while (left < right) {
             if (left == faultyLeft)
@@ -25,8 +25,8 @@ public:
 
         // Delete faultyRight
         bool isRightFaulty = false;
-        left = 0;
-        right = n - 1;
+        left = faultyLeft;
+        right = faultyRight;
 
         while (left < right) {
             if (right == faultyRight)
