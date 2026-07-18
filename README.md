@@ -725,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-k-th-smallest-prime-fraction](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0875-longest-mountain-in-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0925-long-pressed-name](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-long-pressed-name) |
 | [0969-pancake-sorting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -817,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0886-score-of-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-long-pressed-name](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-long-pressed-name) |
 | [0926-find-and-replace-pattern](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0952-word-subsets) |
