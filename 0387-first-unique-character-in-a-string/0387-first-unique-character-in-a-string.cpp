@@ -1,13 +1,21 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        unordered_map<char,int>mp;
-        for(auto x:s)
-            mp[x]++;
-        
-        for(int i=0;i<s.length();i++){
-            if(mp[s[i]]==1) return i; 
+        int n = s.size();
+
+        for (int i = 0; i < n; i++) {
+            bool unique = true;
+
+            for (int j = 0; j < n; j++) {
+                if (i != j && s[i] == s[j]) {
+                    unique = false;
+                    break;
+                }
+            }
+            if (unique)
+                return i;
         }
+
         return -1;
     }
 };
