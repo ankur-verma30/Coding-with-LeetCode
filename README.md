@@ -821,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0886-score-of-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0925-long-pressed-name) |
 | [0926-find-and-replace-pattern](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -969,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0886-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1006,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0969-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -2069,4 +2072,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0374-guess-number-higher-or-lower](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
