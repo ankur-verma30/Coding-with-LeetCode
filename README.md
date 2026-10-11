@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2845-find-the-value-of-the-partition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2845-find-the-value-of-the-partition) |
@@ -1839,6 +1840,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
