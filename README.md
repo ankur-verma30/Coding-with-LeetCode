@@ -465,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1051,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -1288,6 +1290,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3399-find-the-integer-added-to-array-ii](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3531-count-covered-buildings](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3531-count-covered-buildings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ankur-verma30/Coding-with-LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
